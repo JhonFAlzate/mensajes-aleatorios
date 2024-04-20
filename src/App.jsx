@@ -5,6 +5,7 @@ import getRandomNumber from './utils/getRandomNumber'
 import Phrase from './components/Phrase'
 import BtnPhrase from './components/BtnPhrase'
 import photos from './data/photos.json'
+
 function App() {
   const indexRandom = getRandomNumber(quotes.length)
 
