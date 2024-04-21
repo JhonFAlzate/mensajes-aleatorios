@@ -26,13 +26,13 @@
         font-size: 35px;
         text-align: center;
         letter-spacing: 1px;
-        color: white;
+        color: rgb(236, 140, 6);
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         text-shadow:
-            -3px -3px 0 rgb(21, 21, 21),
-            3px -3px 0 rgb(21, 21, 21),
-            -3px 3px 0 rgb(21, 21, 21),
-            3px 3px 0 rgb(21, 21, 21);
+            -2px -2px 0 rgb(21, 21, 21),
+            2px -2px 0 rgb(21, 21, 21),
+            -2px 2px 0 rgb(21, 21, 21),
+            2px 2px 0 rgb(21, 21, 21);
 
     }
 
