@@ -3,7 +3,9 @@
 const Phrase = ({phraseSelected}) => {
 
   return (
-    <p className="textphrase">{phraseSelected.phrase}</p>
+    <p className="textphrase"><span>{phraseSelected.cita}</span> <br /> 
+    <span className="autor"> ✍ 🠚{phraseSelected.autor}</span></p>
+   
   )
 }
 

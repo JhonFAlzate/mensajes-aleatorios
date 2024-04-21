@@ -1,62 +1,86 @@
 [
-    {
-      "phrase": "Lo que sospechabas es verdad, procura ser amable con ellos, pues esta bondad ayudará a que todo mejore.",
-      "author": "proverbia.net"
-    },
-    {
-      "phrase": "Se te cumplirá un hermoso sueño y veras como otros sueños se hacen realidad.",
-      "author": "Proverbio Japones"
-      },
-    {
-      "phrase": "La realidad del ser humano es su pensamiento, no su cuerpo material.",
-      "author": "proverbia.net"
-    },
-    {
-      "phrase": "Te casarás con un atleta profesional. Si las competencias de comer pueden ser consideradas un deporte.",
-      "author": "proverbia.net"
-    },
-    {
-      "phrase": "Valiente es aquel que ama..",
-      "author": "proverbia.net"
-    },
-    {
-      "phrase": "No tienes que ser más rápido que el oso, solo tienes que ser más rápido que el chico más lento que corre de él.",
-      "author": "proverbia.net"
-    },
-    {
-      "phrase": "No te tomes la vida demasiado en serio. No saldrás de ella con vida.",
-      "author": "proverbia.net"
-    },
-    {
-      "phrase": "Mañana puede ser muy tarde para disfrutar lo que tienes hoy.",
-      "author": "ajescudero"
-    },
-    {
-      "phrase": "Cuando busques lo que mas deseas, recuerda hacer tu mejor esfuerzo.",
-      "author": "ajescudero"
-    },
-    {
-      "phrase": "No olvides que un amigo es un regalo que te das a ti mismo.",
-      "author": "ajescudero"
-    },
-     {
-      "phrase": "Alégrate, un camino de hermosas pasiones te espera y debes transitarlo.",
-      "author": "ajescudero"
-    },
-    {
-      "phrase": "Una reputación de mil años puede depender de la conducta de una hora",
-      "author": "Proverbio Japones"
-      },
-    {
-      "phrase": "Siente la felicidad que espera por ti y no olvides atraparla para mantenerla contigo.",
-      "author": "ajescudero"
-    },
-    {
-      "phrase": "Alégrate, un camino de hermosas pasiones te espera y debes transitarlo",
-      "author": "ajescudero"
-    },
-    {
-      "phrase": "No todo el mundo puede recibir las mismas cosas. Se practico.",
-      "author": "ajescudero"
-    }
+  {
+      "autor": "Albert Einstein",
+      "cita": "La imaginación es más importante que el conocimiento."
+  },
+  {
+      "autor": "Nelson Mandela",
+      "cita": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+  },
+  {
+      "autor": "Steve Jobs",
+      "cita": "Tu trabajo va a llenar gran parte de tu vida, la única manera de estar realmente satisfecho es hacer lo que creas que es un gran trabajo."
+  },
+  {
+      "autor": "Maya Angelou",
+      "cita": "La esperanza y el miedo no pueden ocupar el mismo lugar. Invita a uno a quedarse."
+  },
+  {
+      "autor": "Mahatma Gandhi",
+      "cita": "Sé el cambio que deseas ver en el mundo."
+  },
+  {
+      "autor": "Oprah Winfrey",
+      "cita": "Haz la elección consciente todos los días de respirar amor en tu vida."
+  },
+  {
+      "autor": "William Shakespeare",
+      "cita": "Ser o no ser, esa es la cuestión."
+  },
+  {
+      "autor": "Albert Camus",
+      "cita": "En medio del invierno, aprendí por fin que había en mí un verano invencible."
+  },
+  {
+      "autor": "Martin Luther King Jr.",
+      "cita": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacer eso. El odio no puede expulsar al odio; solo el amor puede hacer eso."
+  },
+  {
+      "autor": "Mark Twain",
+      "cita": "El secreto de salir adelante es comenzar."
+  },
+  {
+      "autor": "Eleanor Roosevelt",
+      "cita": "Nadie puede hacerte sentir inferior sin tu consentimiento."
+  },
+  {
+      "autor": "Leonardo da Vinci",
+      "cita": "La simplicidad es la máxima sofisticación."
+  },
+  {
+      "autor": "Confucio",
+      "cita": "Elige un trabajo que ames, y nunca tendrás que trabajar ni un día de tu vida."
+  },
+  {
+      "autor": "Frida Kahlo",
+      "cita": "Pies, ¿para qué los quiero si tengo alas para volar?"
+  },
+  {
+      "autor": "Stephen Hawking",
+      "cita": "La inteligencia es la capacidad de adaptarse al cambio."
+  },
+  {
+      "autor": "Vincent Van Gogh",
+      "cita": "Lo que me gusta de mi casa es que cuando cierro los ojos, no estoy sola."
+  },
+  {
+      "autor": "J.K. Rowling",
+      "cita": "Hasta la más pequeña de las personas puede cambiar el curso del futuro."
+  },
+  {
+      "autor": "Pablo Picasso",
+      "cita": "Todo lo que puedas imaginar es real."
+  },
+  {
+      "autor": "Walt Disney",
+      "cita": "La forma de empezar es dejar de hablar y empezar a hacer."
+  },
+  {
+      "autor": "Helen Keller",
+      "cita": "La vida es una aventura atrevida o no es nada."
+  },
+  {
+     "autor": "Jhon Fredy Alzate / 20/04/2024",
+     "cita": "Si crees que no puedes, es por que sí puedes. No dejes de luchar, pronto lo vas a lograr..."
+  }
 ]

@@ -9,7 +9,7 @@ const BtnPhrase = ({setPhraseSelected, SetBfSelected}) => {
   }
     return (
 
-         <button className="button" onClick={changePhrase}>Probar mi suerte</button>
+         <button className="button" onClick={changePhrase}>Ver otra frase</button>
   )
 }
 

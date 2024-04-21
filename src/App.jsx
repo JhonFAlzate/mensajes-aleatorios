@@ -13,12 +13,12 @@ function App() {
   const [bgSelected, SetBfSelected] = useState(photos[getRandomNumber(photos.length)])
   
   const objStyle = {
-    backgroundImage: `url(/img/fondo${bgSelected}.png)`
+    backgroundImage: `url(/img/relajantes${bgSelected}.jpg)`
   }
 
   return (
     <div className='container' style={objStyle}>
-      <h1 className='title'>GALLETAS DE LA FORTUNA</h1>
+      <h1 className='title'>FRASES PARA MEDITAR</h1>
       
         <BtnPhrase cl
            setPhraseSelected={setPhraseSelected}
@@ -27,6 +27,7 @@ function App() {
       
        <div className='phrase'>
       <Phrase phraseSelected = {phraseSelected}/>
+     
       </div>
     </div>
   )
