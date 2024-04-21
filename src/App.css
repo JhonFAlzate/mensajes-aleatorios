@@ -68,12 +68,13 @@
         .textphrase {
             text-align: center;
             font-size: 25px;
-            color:black;
+            color: black;
             font-style: oblique;
             font-weight: bold;
 
 
         }
+
         .autor {
             color: #694105;
             font-size: medium;
@@ -94,5 +95,9 @@
             font-size: 60px;
             margin: 10px;
         }
+
+
     }
+
+
 }
