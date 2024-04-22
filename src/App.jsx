@@ -23,6 +23,8 @@ function App() {
         <BtnPhrase cl
            setPhraseSelected={setPhraseSelected}
            SetBfSelected={SetBfSelected}
+           phraseSelected = {phraseSelected}
+           bgSelected= {bgSelected}
           />
       
        <div className='phrase'>
